@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Lotto App</string>
+    <string name="add_number">번호추가하기</string>
+    <string name="init_number">초기화하기</string>
+</resources>
